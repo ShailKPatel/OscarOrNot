@@ -37,3 +37,16 @@ A fully connected feedforward **neural network** is trained using TensorFlow/Ker
 ## 📁 Folder Structure
 
 to do
+
+## License
+
+This project (code and documentation) is licensed under the MIT License.  
+See [LICENSE](./LICENSE) for more details.
+
+### Dataset License
+
+The dataset used in this project — [TMDB Movies Daily Updates](https://www.kaggle.com/datasets/alanvourch/tmdb-movies-daily-updates) by Alan Vourch — is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+
+Please note that while the code in this repository is MIT-licensed, the dataset is subject to its own license and terms of use.
+
+---
