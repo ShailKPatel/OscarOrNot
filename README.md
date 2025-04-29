@@ -1,4 +1,4 @@
-# 🏆 OscarNet: Predicting Oscar-Worthy Films with Neural Networks
+# 🏆 OscarOrNot: Predicting Oscar-Worthy Films with Neural Networks
 
 **OscarNet** is a machine learning project designed to predict whether a film will win the **Best Picture Oscar** based on a rich set of features including box office performance, critical reception, genre, timing of release, and industry prestige indicators.
 
