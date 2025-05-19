@@ -16,6 +16,7 @@ with st.container(border=True):
     "### **Shail K Patel**"
     st.link_button("LinkedIn", "https://www.linkedin.com/in/shail-k-patel/", icon="🔗", use_container_width=True)
     st.link_button("GitHub", "https://github.com/ShailKPatel", icon="🐙", use_container_width=True)
+    st.link_button("Visit Portfolio", "https://shailkpatel.github.io/")
     
 
 with st.container(border=True):
